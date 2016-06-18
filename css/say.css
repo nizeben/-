@@ -1,0 +1,84 @@
+#sel{
+	height: 700px;
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.sel-tit{
+	height: 26px;
+	border-bottom: 1px solid #EA3939;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+.sel-tit img{
+	margin-top: 5px;
+}
+.sel-main{
+	width: 1060px;
+	height: 600px;
+	padding: 50px 20px 50px 20px;
+}
+.cx{
+	width: 300px;
+	height: 315px;
+	padding:20px;
+	float: left;
+}
+.sel-main .cx{
+	clear: both;
+    background: #EA3939;
+    color: white;
+}
+.sel-main .cx a{
+	color: white;
+}
+.cx .tit {
+    font-size: 18px;
+    font-weight: bold;
+	margin-top: 10px;
+}
+.cx .con {
+    line-height: 30px;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.cx .mo{
+	margin-top: 80px;
+    font-size: 12px;
+}
+.main_box{
+    float: left;
+    width: 690px;
+    height: 500px;
+    margin: 5px 0 10px 5px;
+    border: 0px solid #cccccc;
+    padding: 15px 0 10px 5px;
+    background-color: #ffffff;
+    font-size: 12px;
+}
+.main_box .tit{
+    float: left;
+    width: 130px;
+    height: 35px;
+    text-align: right;
+    font-size: 16px;
+    color: #5A5A5A;
+}
+.main_box li{
+    margin-bottom: 10px;
+}
+.main_box .in{
+    height: 35px;
+    width: 450px;
+}
+.main_box .ly{
+    height: 150px;
+    width: 450px;
+}
+.yzm{
+    width: 150px;
+    height: 35px;
+}

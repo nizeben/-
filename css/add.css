@@ -1,0 +1,33 @@
+#add{
+	height: 568px;
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.add-tit{
+	height: 26px;
+	border-bottom: 1px solid #EA3939;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+.add-tit img{
+	margin-top: 5px;
+}
+.add-main{
+	height: 502px;
+	padding: 50px 20px 50px 20px;
+}
+.add-main .con{
+	width: 460px;
+	color: #5A5A5A;
+}
+.add-main li{
+	margin-bottom: 10px;
+}
+.add-main .con-1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 30px;	
+}

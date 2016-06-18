@@ -1,0 +1,198 @@
+
+/*intro 开始*/
+#intro{
+	height: 550px;
+}
+#news{
+	margin-top: 20px;
+}
+#company-news, #trends{
+	width: 334px;
+	height: 187px;
+	/*background: #ccc;*/
+	float: left;
+	margin-right: 40px;
+}
+#news h3{
+	height: 30px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	text-indent: 20px;
+	line-height: 30px;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+#company-news h3{
+	color: #EA3939;
+	border-bottom-color: #EA3939;
+	background-image: url(../img/index/xw_1.png);
+}
+#trends h3{
+	color: #000;
+	border-bottom-color: #000;
+	background-image: url(../img/index/xw_2.png);
+}
+#news .title{
+	float: left;
+}
+#news .more{
+	font-size: 14px;
+	float: right;
+	color: #5a5a5a;
+	margin-right: 10px;
+}
+#news .news-list li{
+	height: 20px;
+	line-height: 20px;
+	border-bottom: 1px dotted #ccc;
+	text-indent: 15px;
+	padding: 5px 0 3px 5px;
+	background: url(../img/article_arrow.gif) no-repeat 5px center;
+}
+#news .news-title{
+	color: #5A5A5A;
+	font-size: 12px;
+	float: left;
+}
+#news .news-date{
+	color: #5A5A5A;
+	font-size: 12px;
+	float: right;
+}
+#service{
+	float: left;
+}
+#service .service-item{
+	width: 100px;
+	height: 45px;
+	padding-top: 125px;
+	float: left;
+	margin-right: 20px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#service .financing{
+	background-image: url(../img/index/sy_tz_1.jpg);
+}
+#service .financing:hover{
+	background-image: url(../img/index/sy_tz_1_h.jpg);
+}
+#service .funds{
+	background-image: url(../img/index/sy_tz_2.jpg);
+}
+#service .funds:hover{
+	background-image: url(../img/index/sy_tz_2_h.jpg);
+}
+#service .equity{
+	background-image: url(../img/index/sy_tz_3.jpg);
+}
+#service .equity:hover{
+	background-image: url(../img/index/sy_tz_3_h.jpg);
+}
+#service .title-zh{
+	margin-top: 10px;
+	height: 25px;
+}
+#service .title-zh a{
+	color: #EA3939;
+    font-size: 14px;
+    font-weight: bold;
+}
+#service .title-en{
+	color: #826682;
+	font-size: 12px;
+}
+#about{
+	clear: both;
+	height: 307px;
+	width: 1100px;
+}
+#about .about_us{
+	margin-right: 10px;
+	float: left;
+	height: 307px;
+	width: 288px;
+	background: url(../img/about_us.png);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+
+}
+#about .invest{
+	margin-right: 10px;
+	float: left;
+	height: 307px;
+	width: 298px;
+	background:#F1F1F1 url(../img/invest.png);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+#about .invest_hz{
+	width: 240px;
+	margin: 0 auto;
+}
+#about .invest h3{
+	font-size: 15px;
+	line-height: 0px;
+	color: red;
+}
+#about .invest p{
+	font-size: 13px;
+	line-height: 20px;
+
+}
+#about .invest a{
+	color: red;
+	font-size: 12px;
+}
+#about .contact{
+	float: left;
+	width: 480px;
+	height: 152px;
+	margin-right: 10px;
+	background: #F5F5F5 url(../img/contact.png);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+}
+#about .contact_hz{
+	margin: 3% 45%;
+	height: 120px;
+	width: 250px;
+
+}
+#about .contact p{
+	line-height: 30px;
+}
+#about .job{
+	float: left;
+	margin-top: 4px;
+	margin-right: 10px;
+	width: 480px;
+	height: 152px;
+	background: #F5F5F5 url(../img/job.png) no-repeat;
+	background-size: auto 100%;
+
+}
+#about .job_hz{
+	width: 300px;
+	height: 120px;
+	float: right;
+	margin-right:15px;
+	margin-top: -5px;
+}
+#about .job h3{
+	font-size: 15px;
+	line-height: 0px;
+	color: red;
+}
+#about .job p{
+	font-size: 13px;
+	line-height: 20px;
+
+}
+#about .job a{
+	color: red;
+	font-size: 12px;
+}
+/*intro 结束*/
